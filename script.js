@@ -8,6 +8,7 @@ window.addEventListener("scroll", () => {
     }
 });
 
+
 // Profile section redirecting
 const profileIcon = document.querySelector(".profile-icon");
 profileIcon.addEventListener("click", () => {
