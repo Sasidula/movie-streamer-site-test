@@ -9,6 +9,13 @@ window.addEventListener("scroll", () => {
 });
 
 
+// home screen section redirecting
+const HomeIcon = document.querySelector(".logo");
+HomeIcon.addEventListener("click", () => {
+    window.location.href = "index.html";
+});
+
+
 // Profile section redirecting
 const profileIcon = document.querySelector(".profile-icon");
 profileIcon.addEventListener("click", () => {

@@ -102,7 +102,7 @@ body {
   color: #e5e5e5;
 }
 
-.hero-buttons {
+.hero-button {
   display: flex;
   gap: 16px;
 }
@@ -186,8 +186,8 @@ body {
 /* Content Cards */
 .content-card {
   position: relative;
-  min-width: 250px;
-  height: 140px;
+  min-width: 260px;
+  height: 150px;
   border-radius: 8px;
   overflow: hidden;
   cursor: pointer;
